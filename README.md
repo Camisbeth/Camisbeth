@@ -17,6 +17,8 @@ Mi objetivo es seguir creciendo en el desarrollo de páginas web, descubriendo n
 - BOOTSTRAP
 - JAVASCRIPT
 - REACTJS
+- NEXTJS
+- TYPESCRIPT
 - NODEJS
 - UX/UI
 - FIGMA
