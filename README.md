@@ -14,10 +14,10 @@ Mi objetivo es seguir creciendo en el desarrollo de páginas web, descubriendo n
 - HTML5
 - CSS3
 - SCSS
-- BOOTSTRAP
+- BOOTSTRAP / TAILWIND / MUI
 - JAVASCRIPT
-- REACTJS
-- NEXTJS
+- REACTJS / NEXTJS
+- ANGULAR
 - TYPESCRIPT
 - NODEJS
 - UX/UI
