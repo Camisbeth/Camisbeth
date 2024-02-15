@@ -27,7 +27,7 @@ Mi objetivo es seguir creciendo en el desarrollo de páginas web, descubriendo n
 ---
 - Soy fanática de Star Wars! :new_moon:
 - Mi juego favorito es, por el momento "The Last of Us" :bust_in_silhouette:
-- Soy vegetariana hace 10 años!! 	:scream_cat:
+- Soy vegetariana hace 11 años!! 	:scream_cat:
 - Mi día comienza con un mate y termina con un mate :crown:
 
 ### Proyectos
