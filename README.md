@@ -17,6 +17,7 @@ Hoy estoy enfocada en seguir creciendo como fullstack developer, sumando experie
 
 **Backend**
 - Node.js
+- Nest
 - Java
 
 **Diseño**
