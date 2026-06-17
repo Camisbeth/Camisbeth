@@ -1,46 +1,47 @@
-### Hi there 👋
+# Hi there 👋 Soy Camila Coré
 
-Mi nombre es Camila Coré. 
+Desarrolladora **Fullstack JS/TS**, apasionada por construir productos web prolijos de punta a punta. Vengo de un recorrido que combina programación con arte fotográfico y performático, y esa mirada creativa la traigo también al código.
 
-Soy una apasionada de las nuevas tecnologías, el arte fotográfico y performático, por eso disfruto formarme a diario en estas disciplinas. 
-Actualmente me encuentro en la búsqueda de nuevos horizontes que me permitan expandirme en el área de la programación. 
+Hoy estoy enfocada en seguir creciendo como fullstack developer, sumando experiencia en proyectos reales y explorando cómo la IA y el análisis de datos se integran al desarrollo web.
 
-Mi objetivo es seguir creciendo en el desarrollo de páginas web, descubriendo nuevas tecnologías y afrontando los desafíos que surjan día a día.
+---
 
+## 🚀 Stack
 
-### Stack
---- 
+**Frontend**
+- JavaScript / TypeScript
+- React.js / Next.js
+- Angular
+- HTML5 / CSS3 / SCSS
+- Tailwind / Bootstrap / MUI / Angular Material
 
-- HTML5
-- CSS3
-- SCSS
-- BOOTSTRAP / TAILWIND / MUI / SASS / ANGULAR MATERIAL
-- JAVASCRIPT
-- JAVA
-- REACTJS / NEXTJS
-- ANGULAR
-- TYPESCRIPT 
-- NODEJS
+**Backend**
+- Node.js
+- Java
+
+**Diseño**
 - UX/UI
-- FIGMA
+- Figma
 
+**Explorando actualmente**
+- IA aplicada al desarrollo
+- Data Analytics
 
-### Datos curiosos
 ---
-- Soy fanática de Star Wars! :new_moon:
-- Mi juego favorito es, por el momento "The Last of Us" :bust_in_silhouette:
-- Soy vegetariana hace 11 años!! 	:scream_cat:
-- Mi día comienza con un mate y termina con un mate :crown:
 
-### Proyectos
+## 💼 Proyectos
+
+> Estoy actualizando esta sección con proyectos nuevos — ¡pronto vuelvo a completarla!
+
 ---
-- https://product-preview-cam.vercel.app/
-- https://nft-cam.vercel.app/
-- https://faq-cam.vercel.app/
-- https://email-validation-cam.vercel.app/
-- https://launch-countdown-timer-cam.vercel.app/
-- https://card-id-camisbeth.netlify.app/
-- https://compare-lol-champions.vercel.app/
 
+## 🎲 Datos curiosos
 
-Gracias por leerme y conocerme! si te interesa que charlemos te espero en mi [linkedIn](https://www.linkedin.com/in/camila-cor%C3%A9/) :wink:
+- Soy fanática de Star Wars 🌑
+- Mi juego favorito sigue siendo *The Last of Us* 👤
+- Vegetariana hace más de 11 años 🐱
+- Mi día arranca con un mate y termina con un mate 👑
+
+---
+
+¡Gracias por leerme! Si te interesa charlar, te espero en mi [LinkedIn](https://www.linkedin.com/in/camila-cor%C3%A9/) 😉
